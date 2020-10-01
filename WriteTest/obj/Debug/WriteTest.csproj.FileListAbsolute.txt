@@ -1,0 +1,7 @@
+C:\Users\NShevchenko\source\repos\WriteTest\WriteTest\bin\Debug\WriteTest.exe.config
+C:\Users\NShevchenko\source\repos\WriteTest\WriteTest\bin\Debug\WriteTest.exe
+C:\Users\NShevchenko\source\repos\WriteTest\WriteTest\bin\Debug\WriteTest.pdb
+C:\Users\NShevchenko\source\repos\WriteTest\WriteTest\obj\Debug\WriteTest.csprojAssemblyReference.cache
+C:\Users\NShevchenko\source\repos\WriteTest\WriteTest\obj\Debug\WriteTest.csproj.CoreCompileInputs.cache
+C:\Users\NShevchenko\source\repos\WriteTest\WriteTest\obj\Debug\WriteTest.exe
+C:\Users\NShevchenko\source\repos\WriteTest\WriteTest\obj\Debug\WriteTest.pdb
